@@ -9,7 +9,7 @@ import { useSearch } from "../../context/SearchContext";
 import { useMobile } from "../../hooks/useMobile";
 
 // Components
-import MobileBottomNavbar from "./mobileBottomNavbar";
+import MobileBottomNavbar from "./MobileBottomNavbar";
 import CreateModal from "../modals/CreateModal";
 
 // Styles
